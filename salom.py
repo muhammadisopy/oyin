@@ -1,0 +1,2 @@
+dars = "dastur"
+print(dars)
